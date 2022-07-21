@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Gyeongmin%20Lee&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=210&section=header&text=Gyeongmin%20Lee&fontSize=90" />
 
 <h1 align="center"></h1>
 <h3 align="left">Connect with me:</h3>
