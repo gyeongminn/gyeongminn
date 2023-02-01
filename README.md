@@ -19,4 +19,4 @@
 ![](https://github.com/gyeongminn/github-stats-transparent/blob/output/generated/languages.svg)
 
 &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eyhoss)](https://solved.ac/eyhoss/)
-&nbsp; ![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=eyhoss&theme=dark)
+&nbsp; [![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=eyhoss&theme=dark)](https://solved.ac/eyhoss/)
