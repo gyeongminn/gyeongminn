@@ -15,8 +15,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
----
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eyhoss)](https://solved.ac/eyhoss/)
 ![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=eyhoss&theme=dark)
 
