@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Gyeongmin%20Lee&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=Gyeongmin%20Lee&fontSize=90" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://velog.io/@gyeongmin" target="blank"><img align="center" src="./velog.svg" alt="Velog" height="30" width="40"/></a>
