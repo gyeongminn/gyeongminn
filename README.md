@@ -15,10 +15,11 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eyhoss)](https://solved.ac/eyhoss/)
+---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eyhoss)](https://solved.ac/eyhoss/)
 ![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=eyhoss&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeongminn&show_icons=true&locale=en&theme=react&hide=contribs,issues" alt="gyeongminn" /></p>
 
 ![](https://github.com/gyeongminn/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/gyeongminn/github-stats-transparent/blob/output/generated/languages.svg)
