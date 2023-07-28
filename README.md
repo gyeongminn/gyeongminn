@@ -24,5 +24,5 @@
 ![](https://github.com/gyeongminn/github-stats-transparent/blob/output/generated/languages.svg)
 
 &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeongmin)](https://solved.ac/gyeongmin/)
-[![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=your_handle)](https://atcoder.jp/users/gyeongminn)
+[![Atcoder Profile](https://atcoder.junah.dev/v1/generate_badge?name=gyeongminn)](https://atcoder.jp/users/gyeongminn)
 
