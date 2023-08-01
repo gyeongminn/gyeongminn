@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:lee_gyeongmin@naver.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97784561/224553914-07f9fac0-2c71-4599-bc03-abcd08cd3304.png" alt="Velog" height="33" width="33"/></a>
+<a href="mailto:gyeongmin@hansung.ac.kr" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97784561/224553914-07f9fac0-2c71-4599-bc03-abcd08cd3304.png" alt="Velog" height="33" width="33"/></a>
 <a href="https://velog.io/@gyeongmin" target="blank"><img align="center" src="./velog.svg" alt="Velog" height="30" width="40"/></a>
 <a href="https://instagram.com/gm2hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gm2hr" height="30" width="40"/></a>
 </p>
