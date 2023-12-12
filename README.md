@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="mailto:gyeongmin@hansung.ac.kr" target="_blank">
-        <img src="https://user-images.githubusercontent.com/97784561/224553914-07f9fac0-2c71-4599-bc03-abcd08cd3304.png" alt="Velog" height="36" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="36" width="36"/>
     </a>
     &nbsp;
     <a href="https://instagram.com/gyeongminx" target="_blank">
@@ -15,8 +15,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="36" width="36"/>
     </a>
     &nbsp;
+    <a href="https://github.com/gyeongminn" target="_blank">
+        <img id="githubIcon" src="https://gyeongminn.github.io/logo.ico/github-light.svg" alt="GitHub" height="40" width="40"/>
+    </a>
+    &nbsp;
     <a href="https://gyeongminn.github.io" target="_blank">
-        <img src="https://gyeongminn.github.io/logo.ico/white.svg" alt="DevBlog" height="36" width="36"/>
+        <img src="https://gyeongminn.github.io/logo.ico/blog-light.svg" alt="DevBlog" height="36" width="36"/>
     </a>
 </p>
 
