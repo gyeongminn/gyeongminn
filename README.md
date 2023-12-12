@@ -64,7 +64,7 @@
 
 <h3 align="left">Research Interest</h3>
 
-**Computer Vision**, **Anomaly Detection**, **Variational AutoEncoder**, **Object Detection**
+**Computer Vision**, **Anomaly Detection**, **Natural Language Processing**
 
 
 
