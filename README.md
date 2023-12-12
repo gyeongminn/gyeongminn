@@ -5,7 +5,7 @@
 <a href="mailto:gyeongmin@hansung.ac.kr" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97784561/224553914-07f9fac0-2c71-4599-bc03-abcd08cd3304.png" alt="Velog" height="38" width="38"/></a>
 <a href="https://instagram.com/gyeongminx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyeongminx" height="35" width="36"/></a>
 <a href="https://www.linkedin.com/in/gyeongmin-lee-865448256/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="35" width="35"/></a>
-<a href="https://gyeongminn.github.io" target="blank"><img align="center" src="https://gyeongminn.github.io/logo.ico/white" alt="DevBlog" height="35" width="35"/></a>
+<a href="https://gyeongminn.github.io" target="blank"><img align="center" src="https://gyeongminn.github.io/logo.ico/white.svg" alt="DevBlog" height="35" width="35"/></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
