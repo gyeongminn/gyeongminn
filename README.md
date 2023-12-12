@@ -15,6 +15,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="36" width="36"/>
     </a>
     &nbsp;
+    <a href="https://gyeongminn.github.io/cv.pdf" target="_blank">
+        <img id="cvIcon" src="https://gyeongminn.github.io/logo.ico/cv-light.svg" alt="CV" height="40" width="40"/>
+    </a>
+    &nbsp;
     <a href="https://github.com/gyeongminn" target="_blank">
         <img id="githubIcon" src="https://gyeongminn.github.io/logo.ico/github-light.svg" alt="GitHub" height="40" width="40"/>
     </a>
