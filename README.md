@@ -16,11 +16,11 @@
     </a>
     &nbsp;
     <a href="https://gyeongminn.github.io/cv.pdf" target="_blank">
-        <img id="cvIcon" src="https://gyeongminn.github.io/logo.ico/cv-light.svg" alt="CV" height="39" width="39"/>
+        <img id="cvIcon" src="https://gyeongminn.github.io/logo.ico/cv-light.svg" alt="CV" height="36" width="36"/>
     </a>
     &nbsp;
     <a href="https://github.com/gyeongminn" target="_blank">
-        <img id="githubIcon" src="https://gyeongminn.github.io/logo.ico/github-light.svg" alt="GitHub" height="40" width="40"/>
+        <img id="githubIcon" src="https://gyeongminn.github.io/logo.ico/github-light.svg" alt="GitHub" height="38" width="38"/>
     </a>
     &nbsp;
     <a href="https://gyeongminn.github.io" target="_blank">
