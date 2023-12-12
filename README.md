@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=Gyeongmin%20Lee&fontSize=90" />
+<a href="https://gyeongminn.github.io/about">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&animation=fadeIn&height=200&section=header&text=Gyeongmin%20Lee&fontSize=90" />
+</a>
 
 <h3 align="left">Connect with me</h3>
 
