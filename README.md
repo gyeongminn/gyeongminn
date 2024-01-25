@@ -17,7 +17,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="36" width="36"/>
     </a>
     &nbsp;
-    <a href="https://gyeongminn.github.io/cv.pdf" target="_blank">
+    <a href="https://gyeongmin.kr/cv.pdf" target="_blank">
         <img id="cvIcon" src="https://gyeongminn.github.io/logo.ico/cv-light.svg" alt="CV" height="36" width="36"/>
     </a>
     &nbsp;
@@ -25,7 +25,7 @@
         <img id="githubIcon" src="https://gyeongminn.github.io/logo.ico/github-light.svg" alt="GitHub" height="38" width="38"/>
     </a>
     &nbsp;
-    <a href="https://gyeongminn.github.io" target="_blank">
+    <a href="https://gyeongmin.kr" target="_blank">
         <img src="https://gyeongminn.github.io/logo.ico/blog-light.svg" alt="DevBlog" height="36" width="36"/>
     </a>
 </p>
