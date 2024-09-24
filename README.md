@@ -48,9 +48,6 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
     </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-    </a>
     <a href="https://www.mvtec.com/products/halcon" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/97784561/224551155-ef0d5041-8e60-4f72-817a-3a6bd1d03c93.png" alt="Halcon" width="42" height="42"/>
     </a>
