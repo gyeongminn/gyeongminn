@@ -52,7 +52,7 @@
         <img src="https://user-images.githubusercontent.com/97784561/224551155-ef0d5041-8e60-4f72-817a-3a6bd1d03c93.png" alt="Halcon" width="42" height="42"/>
     </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opencv/opencv-original.svg" alt="OpenCV"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42"/>
