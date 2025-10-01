@@ -9,10 +9,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Mail" height="36" width="36"/>
     </a>
     &nbsp;
-    <a href="https://instagram.com/gyeongminx" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="36" width="36"/>
-    </a>
-    &nbsp;
     <a href="https://www.linkedin.com/in/gyeongmin-lee-865448256/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="36" width="36"/>
     </a>
