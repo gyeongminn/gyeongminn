@@ -75,11 +75,11 @@ while pursuing an M.S. in Computer Science at Hansung University.
 
 *Founding Member* — Semiconductor post-processing vision inspection startup, now in mass production across multiple client sites.
 
-- Developed 36 bottom-side inspection algorithms for QFN, BGA, LGA, and SIP packages
-- Built ROI auto-recommendation feature via object detection — patent filed
-- Researched sub-pixel measurement algorithms and camera calibration techniques
-- Integrated Camera Link / GigE cameras using Halcon and vendor SDKs
-- Developed WPF-based teaching tools and result-visualization interfaces
+- Implemented and tuned production-grade vision algorithms for alignment, defect detection, and dimensional inspection
+- Developed 40 inspection algorithms for QFN, BGA, LGA, and SIP packages (top/bottom/side)
+- Built an ROI auto-recommendation feature using object detection — patent filed
+- Researched sub-pixel measurement and camera calibration techniques
+- Improved inspection software performance and maintainability through production-focused algorithm and UI enhancements
 
 **AML Lab, Hansung University** &nbsp;·&nbsp; Undergraduate Researcher &nbsp;·&nbsp; May 2023 – Feb 2024
 
