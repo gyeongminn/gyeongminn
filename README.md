@@ -76,19 +76,16 @@ while pursuing an M.S. in Computer Science at Hansung University.
 *Founding Member* — Semiconductor post-processing vision inspection startup, now in mass production across multiple client sites.
 
 - Implemented and tuned production-grade vision algorithms for alignment, defect detection, and dimensional inspection
-- Developed 40 inspection algorithms for QFN, BGA, LGA, and SIP packages (top/bottom/side)
-- Built an ROI auto-recommendation feature using object detection — patent filed
-- Researched sub-pixel measurement and camera calibration techniques
 - Improved inspection software performance and maintainability through production-focused algorithm and UI enhancements
+- Built an ROI auto-recommendation feature using object detection — patent filed
 
 **AML Lab, Hansung University** &nbsp;·&nbsp; Undergraduate Researcher &nbsp;·&nbsp; May 2023 – Feb 2024
 
 Research on anomaly detection in semiconductor packaging processes under national R&D funding.
 
-- 3 poster presentations (ISMP 2023, HCI 2024, KCC 2024)
-- 1 oral presentation (ISMP-IRSP 2024)
-- Vision inspection software development
-- AI-based smart manufacturing R&D
+- Presented research in 3 poster sessions and 1 oral presentation at academic conferences 
+- Built vision inspection software for semiconductor manufacturing research projects
+- Supported AI-based smart manufacturing R&D initiatives
 
 ## 🏆 Competitive Programming
 
