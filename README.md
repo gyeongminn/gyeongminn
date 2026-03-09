@@ -71,7 +71,10 @@ while pursuing an M.S. in Computer Science at Hansung University.
 
 ## 🏢 Experience
 
-**디에스** &nbsp;·&nbsp; Vision & Software Engineer &nbsp;·&nbsp; Feb 2024 – Present
+<details open>
+<summary><strong>DS · Vision & Software Engineer · Feb 2024 – Present</strong></summary>
+
+<br>
 
 *Founding Member* — Semiconductor post-processing vision inspection startup, now in mass production across multiple client sites.
 
@@ -79,13 +82,20 @@ while pursuing an M.S. in Computer Science at Hansung University.
 - Improved inspection software performance and maintainability through production-focused algorithm and UI enhancements
 - Built an ROI auto-recommendation feature using object detection — patent filed
 
-**AML Lab, Hansung University** &nbsp;·&nbsp; Undergraduate Researcher &nbsp;·&nbsp; May 2023 – Feb 2024
+</details>
 
-Research on anomaly detection in semiconductor packaging processes under national R&D funding.
+<details open>
+<summary><strong>AML Lab, Hansung University · Undergraduate Researcher · May 2023 – Feb 2024</strong></summary>
 
-- Presented research in 3 poster sessions and 1 oral presentation at academic conferences 
+<br>
+
+Conducted anomaly detection research for semiconductor packaging under a nationally funded R&D program.
+
+- Presented research at academic conferences (3 poster presentations, 1 oral)
 - Built vision inspection software for semiconductor manufacturing research projects
 - Supported AI-based smart manufacturing R&D initiatives
+
+</details>
 
 ## 🏆 Competitive Programming
 
