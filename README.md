@@ -84,20 +84,18 @@ while pursuing an M.S. in Computer Science at Hansung University.
 <summary><strong>AML Lab, Hansung University · Graduate Researcher · Sep 2024 – Present</strong></summary>
 
 Enrolled in the Integrated B.S.–M.S. Program in Computer Science and Engineering
-
 - Conducting research on anomaly detection and machine vision for semiconductor packaging inspection
 - Investigating deep learning approaches for defect detection and localization under limited data conditions
 - Developing experimental vision pipelines for industrial inspection datasets collected from semiconductor production lines
+</details>
 
 <details open>
 <summary><strong>AML Lab, Hansung University · Undergraduate Researcher · May 2023 – Feb 2024</strong></summary>
 
 Conducted anomaly detection research for semiconductor packaging under a nationally funded R&D program.
-
 - Presented research at academic conferences (3 poster presentations, 1 oral)
 - Built vision inspection software for semiconductor manufacturing research projects
 - Supported AI-based smart manufacturing R&D initiatives
-
 </details>
 
 ## 🏆 Competitive Programming
