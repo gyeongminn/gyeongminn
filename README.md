@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:388bfd&height=200&section=header&text=Gyeongmin%20Lee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Vision%20Engineer%20%7C%20M.S.%20Student&descFontColor=8b949e&descSize=18&descAlignY=58&descAlign=50" width="100%" />
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=388BFD&center=true&vCenter=true&random=false&width=580&height=45&lines=Founding+Member+of+a+Vision+Inspection+Startup;Computer+Vision+%26+Deep+Learning+Researcher;Anomaly+Detection+%7C+Object+Detection;C%23+%2F+WPF+%7C+Python+%7C+OpenCV+%7C+Halcon" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=388BFD&center=true&vCenter=true&random=false&width=580&height=36&lines=Founding+Member+of+a+Vision+Inspection+Startup;Computer+Vision+%26+Deep+Learning+Researcher;Anomaly+Detection+%7C+Object+Detection;C%23+%2F+WPF+%7C+Python+%7C+OpenCV+%7C+Halcon" alt="Typing SVG" /></a>
 </div>
 
 ## 🧑‍💻 About Me
@@ -24,10 +21,10 @@
 
 <br>
 
-Developing vision inspection algorithms for semiconductor packaging at DS, <br>
+Developing vision inspection algorithms for semiconductor packaging at 디에스, <br>
 while pursuing an M.S. in Computer Science at Hansung University.
 
-<sub>🏢 &nbsp; DS &nbsp;·&nbsp; 🎓 &nbsp; Hansung Univ. M.S. &nbsp;·&nbsp; 📍 &nbsp; Seoul &nbsp;·&nbsp; 🌐 &nbsp; <a href="https://gyeongmin.kr">gyeongmin.kr</a></sub>
+<sub>🏢 &nbsp; 디에스 &nbsp;·&nbsp; 🎓 &nbsp; Hansung Univ. M.S. &nbsp;·&nbsp; 📍 &nbsp; Seoul &nbsp;·&nbsp; 🌐 &nbsp; <a href="https://gyeongmin.kr">gyeongmin.kr</a></sub>
 
 </div>
 
