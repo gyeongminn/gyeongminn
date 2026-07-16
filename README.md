@@ -24,10 +24,10 @@
 
 <br>
 
-Developing vision inspection algorithms for semiconductor packaging at 디에스, <br>
+Developing vision inspection algorithms for semiconductor packaging at DS, <br>
 while pursuing an M.S. in Computer Science at Hansung University.
 
-<sub>🏢 &nbsp; 디에스 &nbsp;·&nbsp; 🎓 &nbsp; Hansung Univ. M.S. &nbsp;·&nbsp; 📍 &nbsp; Seoul &nbsp;·&nbsp; 🌐 &nbsp; <a href="https://gyeongmin.kr">gyeongmin.kr</a></sub>
+<sub>🏢 &nbsp; DS &nbsp;·&nbsp; 🎓 &nbsp; Hansung Univ. M.S. &nbsp;·&nbsp; 📍 &nbsp; Seoul &nbsp;·&nbsp; 🌐 &nbsp; <a href="https://gyeongmin.kr">gyeongmin.kr</a></sub>
 
 </div>
 
@@ -78,7 +78,7 @@ while pursuing an M.S. in Computer Science at Hansung University.
 *Founding Member* — Semiconductor post-processing vision inspection startup, now in mass production across multiple client sites.
 - Implemented and tuned production-grade vision algorithms for alignment, defect detection, and dimensional inspection
 - Improved inspection software performance and maintainability through production-focused algorithm and UI enhancements
-- Built an ROI auto-recommendation feature using object detection — patent filed
+- Built an ROI auto-recommendation feature using object detection — patent granted
 </details>
 
 <details open>
@@ -103,7 +103,15 @@ Conducted anomaly detection research for semiconductor packaging under a nationa
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=gyeongmin)](https://solved.ac/gyeongmin/)
 
-- Launched the department's **first algorithm competition** at Hansung University — lead organizer & problem setter for 4 editions
-- Co-organized an inter-department algorithm competition as Vice President of an academic club
+Founded the **first algorithm competition** in my department at Hansung University and ran **4 editions** as lead organizer and problem setter — recruited and led the organizing team, drove the build of an in-house judge system, and secured prize sponsorship from the department and student clubs.
+
+Problem sets, editorials, and test data are public at [@HSU-CSE](https://github.com/HSU-CSE):
+
+| Date | Contest | Problems | Editorial | Repository |
+|:----:|:------|:----:|:----:|:----:|
+| Nov 2024 | 2024 2학기 컴퓨터공학부 프로그래밍 경진대회 | [PDF](https://github.com/HSU-CSE/hsupc-2024-2/blob/main/docs/HSUPC_2024_2_problemset.pdf) | | [Link](https://github.com/HSU-CSE/hsupc-2024-2) |
+| Jan 2024 | 2024 동계 프로그래밍 캠프 대회 | [PDF](https://github.com/HSU-CSE/hsupc-2024-programming-camp/blob/main/docs/programming_camp_2024_problemset.pdf) | [PDF](https://github.com/HSU-CSE/hsupc-2024-programming-camp/blob/main/docs/programming_camp_2024_editorial.pdf) | [Link](https://github.com/HSU-CSE/hsupc-2024-programming-camp) |
+| Nov 2023 | 2023 2학기 컴퓨터공학부 프로그래밍 경진대회 | [PDF](https://github.com/HSU-CSE/hsupc-2023-2/blob/main/docs/HSUPC_2023_2_problemset.pdf) | [PDF](https://github.com/HSU-CSE/hsupc-2023-2/blob/main/docs/HSUPC_2023_2_editorial.pdf) | [Link](https://github.com/HSU-CSE/hsupc-2023-2) |
+| Mar 2023 | BUG X Com:BE 프로그래밍 경진대회 | [PDF](https://github.com/HSU-CSE/hsupc-2023-1/blob/main/docs/%EB%AC%B8%EC%A0%9C%EC%A7%80.pdf) | [PDF](https://github.com/HSU-CSE/hsupc-2023-1/blob/main/docs/%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC.pdf) | [Link](https://github.com/HSU-CSE/hsupc-2023-1) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,60:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
