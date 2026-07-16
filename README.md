@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=388BFD&center=true&vCenter=true&random=false&width=580&height=45&lines=Computer+Vision+Engineer+%40+DS;Semiconductor+Inspection+Researcher;Anomaly+Detection+%7C+Object+Detection;WPF+%2F+C%23+%7C+Python+%7C+OpenCV+%7C+Halcon" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=388BFD&center=true&vCenter=true&random=false&width=580&height=45&lines=Founding+Member+of+a+Vision+Inspection+Startup;Computer+Vision+%26+Deep+Learning+Researcher;Anomaly+Detection+%7C+Object+Detection;C%23+%2F+WPF+%7C+Python+%7C+OpenCV+%7C+Halcon" alt="Typing SVG" />
   </a>
 </div>
 
@@ -73,7 +73,7 @@ while pursuing an M.S. in Computer Science at Hansung University.
 ## 🏢 Experience
 
 <details open>
-<summary><strong>DS · Vision & Software Engineer · Feb 2024 – Present</strong></summary>
+<summary><strong>디에스 · Vision & Software Engineer · Feb 2024 – Present</strong></summary>
 
 *Founding Member* — Semiconductor post-processing vision inspection startup, now in mass production across multiple client sites.
 - Implemented and tuned production-grade vision algorithms for alignment, defect detection, and dimensional inspection
