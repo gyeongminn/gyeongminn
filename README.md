@@ -63,8 +63,8 @@ while pursuing an M.S. in Computer Science at Hansung University.
 
 | Year | Title | Venue | Type |
 |:----:|:------|:------|:----:|
-| 2025 | [머신비전을 위한 딥러닝 기반 관심영역 자동생성 시스템 및 방법](https://doi.org/10.8080/1020240153587) <br><sub>특허 제 10-2821336 호</sub> | Korean Patent | Patent |
-| 2024 | [오버킬의 감소를 위한 딥러닝 기반 품질검사 시스템 및 방법](https://doi.org/10.8080/1020240153586) <br><sub>출원번호 10-2024-0153586 · 공개</sub> | Korean Patent | Patent |
+| 2025 | 머신비전을 위한 딥러닝 기반 관심영역 자동생성 시스템 및 방법 <br><sub>특허 제 10-2821336 호</sub> | Korean Patent | Patent |
+| 2024 | 오버킬의 감소를 위한 딥러닝 기반 품질검사 시스템 및 방법 <br><sub>특허 출원 제 10-2024-0153586 호</sub> | Korean Patent | Patent |
 | 2024 | Automatic ROI Recommender for Saw Singulation:<br>Seamless Adaptation for Various Semiconductor Devices | ISMP-IRSP 2024 | Oral |
 | 2024 | 실시간 마킹/표면 검사 시스템 개발을 위한 다중 비전 검사 기술의 최적화 | KCC 2024 | Poster |
 | 2024 | Variational AutoEncoder를 활용한 BGA 결함 탐지 | HCI KOREA 2024 | Poster |
