@@ -61,7 +61,7 @@ while pursuing an M.S. in Computer Science at Hansung University.
 | Year | Title | Venue | Type |
 |:----:|:------|:------|:----:|
 | 2026 | Toward Automated HBM Package Inspection Setup with Context-Aware Recipe Generation | ECTC 2027 | Oral Presentation |
-| 2026 | DART-Retrieve: Retrieve-and-Verify Recovery for Refused Queries in Technical RAG <br><sub>Submitted</sub> | Engineering Applications<br>of Artificial Intelligence | Journal |
+| 2026 | DART-Retrieve: Retrieve-and-Verify Recovery for Refused Queries in Technical RAG <br><sub>Submitted</sub> | Engineering Applications of Artificial Intelligence | Journal |
 | 2026 | 영상 분석 기반의 자재 내 검사 대상 영역의 식별 장치 및 방법 <br><sub>특허 출원 제 10-2026-0165802 호</sub> | Korean Patent | Patent |
 | 2025 | 머신비전을 위한 딥러닝 기반 관심영역 자동생성 시스템 및 방법 <br><sub>특허 제 10-2821336 호</sub> | Korean Patent | Patent |
 | 2024 | 오버킬의 감소를 위한 딥러닝 기반 품질검사 시스템 및 방법 <br><sub>특허 출원 제 10-2024-0153586 호</sub> | Korean Patent | Patent |
